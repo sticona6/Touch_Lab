@@ -7,7 +7,7 @@ public class MainActivity extends AppCompatActivity {
     int hola = 10;
     int adios = 10;
 
-    private final String ola="HOLA MUNDO";
+    private final String ola="HOLA MUNDO hola";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
